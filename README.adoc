@@ -1,0 +1,3 @@
+= Showcase for MQTT based on Quarkus
+
+This project holds a showcase for MQTT on Quarkus.
